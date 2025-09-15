@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikita2305
 - 👀 I’m interested in colaborations, so feel free to ask me for participation in project, I'll definitely consider this.  
 - 🌱 Bachelor Computer Science in MIPT, Russia.
-- 🧑‍💻 Ex-Dev at Yandex
+- 🧑‍💻 Ex-Dev at Yandex, Avito.
 
 <!---
 Nikita2305/Nikita2305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
