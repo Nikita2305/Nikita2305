@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nikita2305
-- 👀 I’m interested in colaborations, so feel free to ask me for participation in project, I'll definitely consider this.  
-- 🌱 Bachelor Computer Science in MIPT, Russia.
+- 🌱 Bachelor Computer Science, Masters in Management & Innovations.
 - 🧑‍💻 Ex-Dev at Yandex, Avito.
 
 <!---
